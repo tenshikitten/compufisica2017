@@ -1,3 +1,6 @@
 *.csv
 *.gif
 *.png
+.ipynb_checkpoints/*
+docker-stacks/*
+scraper/*
